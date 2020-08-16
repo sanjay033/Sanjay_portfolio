@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sanjay Jayakumar</title>
+    <link>https://sanjay033.github.io/Sanjay_portfolio/post/</link>
+    <description>Recent content in Projects on Sanjay Jayakumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sanjay033.github.io/Sanjay_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using ensemble methods to estimate the unit sales of Walmart retail goods</title>
+      <link>https://sanjay033.github.io/Sanjay_portfolio/post/project-1/</link>
+      <pubDate>Sat, 01 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sanjay033.github.io/Sanjay_portfolio/post/project-1/</guid>
+      <description>Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores, headquartered in Bentonville, Arkansas. It is the world&amp;rsquo;s largest company by revenue, with US $514.405 billion, according to the Fortune Global 500 list in 2019.
+For this project, data is made available for 3049 items sold in 10 Walmart stores located across 3 States of the USA: California, Texas, and Wisconsin.</description>
+    </item>
+    
+    <item>
+      <title>Text Mining on Amazon user reviews of mobile phones</title>
+      <link>https://sanjay033.github.io/Sanjay_portfolio/post/project-2/</link>
+      <pubDate>Sun, 26 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sanjay033.github.io/Sanjay_portfolio/post/project-2/</guid>
+      <description>Amazon is one of the most popular online marketplaces used by both individual as well as businesses, and the site is available in many different countries and languages. Not only is Amazon the most valuable internet retailer in the world, it is the most valuable retailer period, having surpassed WalMart back in 2015. (Source: https://ecommerce-platforms.com/glossary/amazon) thus underlining its importance in the world marketplace. Having a customer base of over 150 million in the US alone, the large volume of data that is generated from the Amazon app &amp;amp; website in the form of customer reviews and buying patterns / purchase decisions etc.</description>
+    </item>
+    
+    <item>
+      <title>My world of movies: A movie recommendation system</title>
+      <link>https://sanjay033.github.io/Sanjay_portfolio/post/project-4/</link>
+      <pubDate>Sun, 19 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://sanjay033.github.io/Sanjay_portfolio/post/project-4/</guid>
+      <description>“In times of crisis, we turn to the arts…”
+The whole lockdown scenario following COVID-19 has been a period of high levels of stress for me. The books that I read, the music I heard and the movies I watched helped me to a very large extent to ease the stress. This period also gave me the much-needed impetus to delve deeper into the world of cinema to try to understand any underlying patterns that existed.</description>
+    </item>
+    
+    <item>
+      <title>Spotify song recommendation system</title>
+      <link>https://sanjay033.github.io/Sanjay_portfolio/post/project-3/</link>
+      <pubDate>Sun, 19 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sanjay033.github.io/Sanjay_portfolio/post/project-3/</guid>
+      <description>If music be the food of love, play on&amp;hellip;
+Over the centuries since Shakespeare, music has continued to be an indispensable aspect of our daily life. Not a day passes by without you humming a tune or listening to one. Our sources of listening to them have also evolved over time. From the vintage gramaphones through mix tapes through radio, our listening medium has now reached online music-streaming platforms. Spotify, Apple music, Google play etc.</description>
+    </item>
+    
+    <item>
+      <title>Forecasting property prices</title>
+      <link>https://sanjay033.github.io/Sanjay_portfolio/post/project-5/</link>
+      <pubDate>Tue, 31 Mar 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://sanjay033.github.io/Sanjay_portfolio/post/project-5/</guid>
+      <description>Zillow Group, Inc., or simply Zillow, is a leading real estate and rental marketplace founded in 2006 and headquartered in Seattle. Zillow is involved in buying, selling, renting, financing, remodeling of properties and also has a living database of more than 110 million U.S. homes, including
+  Homes for sale
+  Homes for rent &amp;amp;
+  Homes not currently on the market
+  Zillow also lists the prices of the properties that are not on the market.</description>
+    </item>
+    
+  </channel>
+</rss>
